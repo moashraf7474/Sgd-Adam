@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates the difference between two popular optimizers in deep learning:
+This code demonstrates the difference between two popular optimizers in deep learning:
 
 - **SGD (Stochastic Gradient Descent)**  
 - **Adam (Adaptive Moment Estimation)**
